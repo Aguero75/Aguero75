@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aguero75&show_icons=true&theme=default&hide_border=true" alt="Tony's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aguero75&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="Tony's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aguero75&hide_border=true" alt="Tony's GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguero75&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguero75&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
