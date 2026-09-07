@@ -44,7 +44,7 @@
 | [**herowiki**](https://github.com/Aguero75/herowiki) | A free Hero Wiki search to get more info on your favorite superhero |
 | [**Next_coffee**](https://github.com/Aguero75/Next_coffee) | Coffee House — Home of the Best Brews |
 | [**code-generator**](https://github.com/Aguero75/code-generator) | Free QR code generator |
-| [**Lumiere**](https://github.com/Aguero75/Lumiere) | Skincare brand landing page |
+| [**vendor-buddy**](https://github.com/Aguero75/vendor-buddy) | turn your WhatsApp products into a storefront your customers will love, in one click. |
 | [**Pitchfinder**](https://github.com/Aguero75/pitchfinder) | Pickup football spots near you, added by the people who play on them , the easiest football pitch finder for you |
 | [**Scratch-note**](https://github.com/Aguero75/Scratch-note) | A note app with cool features that make you want to keep writing |
 | [**bank-landing-page**](https://github.com/Aguero75/bank-landing-page) | A neat landing page for a finance institution |
